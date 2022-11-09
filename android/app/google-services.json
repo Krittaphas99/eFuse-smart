@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "847159186968",
+    "firebase_url": "https://efuse-cc668-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "efuse-cc668",
+    "storage_bucket": "efuse-cc668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847159186968:android:1c9bd50548cc746fbb156d",
+        "android_client_info": {
+          "package_name": "com.example.efuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847159186968-rsrrdmatr4kmpuho8jqro0as2vk7p1r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCX9k6V245-7bMMU0YxEALZtFFBrTY1k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847159186968-rsrrdmatr4kmpuho8jqro0as2vk7p1r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
